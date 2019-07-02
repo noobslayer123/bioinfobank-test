@@ -1,0 +1,19 @@
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+.fa-arrow-down,
+.fa-times {
+  transition: 0.2s;
+  color: #6c757d;
+}
+
+.fa-times:hover {
+  color: red;
+  cursor: pointer;
+}
+
+.fa-arrow-down:hover {
+  color: #28a745;
+  cursor: pointer;
+}
